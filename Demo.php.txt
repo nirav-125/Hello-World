@@ -2,4 +2,6 @@
 
 echo"Wellcome to PHP";
 
+echo"Wellcome to PHP Day 2";
+
 ?>
