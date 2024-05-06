@@ -1,6 +1,6 @@
 <?php
 
-echo"Wellcome to PHP";
+echo"Wellcome to PHP Totorials Day 1";
 
 echo"Wellcome to PHP Day 2";
 
